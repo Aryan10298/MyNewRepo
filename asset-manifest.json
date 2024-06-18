@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.885adbd1.css",
-    "main.js": "/static/js/main.c4277d1f.js",
-    "static/media/image.png": "/static/media/image.c3e912d02b05a26b5a28.png",
-    "static/media/logo.png": "/static/media/logo.70a57c7dccd898670cd9.png",
-    "static/media/design.png": "/static/media/design.51c054c466dba3db5e35.png",
-    "static/media/consulting.png": "/static/media/consulting.d6ad1a3fc32af6a90dfc.png",
-    "static/media/programming.png": "/static/media/programming.0b9f77c105c577e195b0.png",
-    "static/media/webdevelopment.png": "/static/media/webdevelopment.2a69bb9ebf5c539f8495.png",
-    "static/media/collab.png": "/static/media/collab.86a31436b9bf8c95685a.png",
-    "static/media/mobileapp.png": "/static/media/mobileapp.e4df631e3ff5682e7f96.png",
-    "static/media/project-1.png": "/static/media/project-1.066b74d9c23aab288fbf.png",
-    "static/media/maintenance.png": "/static/media/maintenance.a46531b0a566d2e9d06e.png",
-    "static/media/project-3.png": "/static/media/project-3.5b8886d1c4234602656a.png",
-    "static/media/project-2.png": "/static/media/project-2.aefff30526484e6d675f.png",
-    "static/media/project-6.png": "/static/media/project-6.143bbfddbcdc0f1ce322.png",
-    "static/media/project-4.png": "/static/media/project-4.af7ab89bc82608228a44.png",
-    "static/media/project-5.png": "/static/media/project-5.ba7231ac6d1fb47077bf.png",
-    "index.html": "/index.html",
-    "main.885adbd1.css.map": "/static/css/main.885adbd1.css.map",
-    "main.c4277d1f.js.map": "/static/js/main.c4277d1f.js.map"
+    "main.css": "/MyNewRepo/static/css/main.885adbd1.css",
+    "main.js": "/MyNewRepo/static/js/main.fb0d866d.js",
+    "static/media/image.png": "/MyNewRepo/static/media/image.c3e912d02b05a26b5a28.png",
+    "static/media/logo.png": "/MyNewRepo/static/media/logo.70a57c7dccd898670cd9.png",
+    "static/media/design.png": "/MyNewRepo/static/media/design.51c054c466dba3db5e35.png",
+    "static/media/consulting.png": "/MyNewRepo/static/media/consulting.d6ad1a3fc32af6a90dfc.png",
+    "static/media/programming.png": "/MyNewRepo/static/media/programming.0b9f77c105c577e195b0.png",
+    "static/media/webdevelopment.png": "/MyNewRepo/static/media/webdevelopment.2a69bb9ebf5c539f8495.png",
+    "static/media/collab.png": "/MyNewRepo/static/media/collab.86a31436b9bf8c95685a.png",
+    "static/media/mobileapp.png": "/MyNewRepo/static/media/mobileapp.e4df631e3ff5682e7f96.png",
+    "static/media/project-1.png": "/MyNewRepo/static/media/project-1.066b74d9c23aab288fbf.png",
+    "static/media/maintenance.png": "/MyNewRepo/static/media/maintenance.a46531b0a566d2e9d06e.png",
+    "static/media/project-3.png": "/MyNewRepo/static/media/project-3.5b8886d1c4234602656a.png",
+    "static/media/project-2.png": "/MyNewRepo/static/media/project-2.aefff30526484e6d675f.png",
+    "static/media/project-6.png": "/MyNewRepo/static/media/project-6.143bbfddbcdc0f1ce322.png",
+    "static/media/project-4.png": "/MyNewRepo/static/media/project-4.af7ab89bc82608228a44.png",
+    "static/media/project-5.png": "/MyNewRepo/static/media/project-5.ba7231ac6d1fb47077bf.png",
+    "index.html": "/MyNewRepo/index.html",
+    "main.885adbd1.css.map": "/MyNewRepo/static/css/main.885adbd1.css.map",
+    "main.fb0d866d.js.map": "/MyNewRepo/static/js/main.fb0d866d.js.map"
   },
   "entrypoints": [
     "static/css/main.885adbd1.css",
-    "static/js/main.c4277d1f.js"
+    "static/js/main.fb0d866d.js"
   ]
 }
